@@ -30,12 +30,12 @@ img {
 }
 
 .top-info-list {
-	margin-top:2%;
+	margin-top:4%;
 	list-style: none;
 }
 
 li {
-	font-size: 24px;
+	font-size: 18px;
 	margin-bottom:20px;
 	line-height: 120%;
 }
@@ -61,13 +61,13 @@ li {
 }
 
 .education-item {
-	font-size: 24px;
+	font-size: 18px;
 	margin-bottom:5px;
 	line-height:120%;
 }
 
 .school-item {
-	font-size:24px;
+	font-size:18px;
 	margin-bottom: 20px;
 	line-height: 120%;
 }
