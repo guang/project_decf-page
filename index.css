@@ -14,27 +14,30 @@ body {
 margin:5%;
 }
 
-.bottom-border {
-	border-bottom: 2px #95a5a6 solid;
+.bottom-border-name {
+	border-bottom: 5px #95a5a6 double;
 }
 
+.bottom-border-heading {
+	border-bottom: 2px #95a5a6 solid;
+}
 .outer-top-info {
 	margin-top: 3%;
-	position: absolute;
 }
 
 img {
 	border-radius:5px;
 }
 
-ul {
-	margin-top:5%;
+.top-info-list {
+	margin-top:2%;
 	list-style: none;
 }
 
 li {
 	font-size: 24px;
 	margin-bottom:20px;
+	line-height: 120%;
 }
 
 .email {
@@ -47,4 +50,24 @@ li {
 	height:30px;
 	width:30px;
 	margin-right:3px;
+}
+
+.topic-header {
+	margin-top:3%;
+}
+
+.topic-list {
+	margin-top:20px;
+}
+
+.education-item {
+	font-size: 24px;
+	margin-bottom:5px;
+	line-height:120%;
+}
+
+.school-item {
+	font-size:24px;
+	margin-bottom: 20px;
+	line-height: 120%;
 }
