@@ -1,0 +1,50 @@
+.wetasphalt {
+	color: #344953;
+}
+
+.midnightblue {
+	color: #2c3e50;
+}
+
+.belizehole {
+	color: #2980b9;
+}
+
+body {
+margin:5%;
+}
+
+.bottom-border {
+	border-bottom: 2px #95a5a6 solid;
+}
+
+.outer-top-info {
+	margin-top: 3%;
+	position: absolute;
+}
+
+img {
+	border-radius:5px;
+}
+
+ul {
+	margin-top:5%;
+	list-style: none;
+}
+
+li {
+	font-size: 24px;
+	margin-bottom:20px;
+}
+
+.email {
+	height:25px;
+	width:35px;
+	margin-right:3px;
+}
+
+.telephone {
+	height:30px;
+	width:30px;
+	margin-right:3px;
+}
