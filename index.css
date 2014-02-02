@@ -35,13 +35,13 @@ img {
 }
 
 li {
-	font-size: 14px;
+	font-size: 18px;
 	margin-bottom:10px;
 	line-height: 120%;
 }
 
 .top-item {
-	font-size:16px;
+	font-size:18px;
 }
 
 .email {
@@ -65,13 +65,13 @@ li {
 }
 
 .education-item {
-	font-size: 14px;
+	font-size: 18px;
 	margin-bottom:5px;
 	line-height:120%;
 }
 
 .school-item {
-	font-size:14px;
+	font-size:18px;
 	margin-bottom: 10px;
 	line-height: 120%;
 }
